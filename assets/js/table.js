@@ -1,0 +1,3 @@
+$(function ()  {
+    $('.custometable').DataTable();
+} );
